@@ -1,0 +1,9 @@
+{
+    "repos": [
+        {
+            "id": "dependencies",
+            "organisation": "jackstar12",
+            "repository": "lnbits-dependencies"
+        }
+    ]
+}

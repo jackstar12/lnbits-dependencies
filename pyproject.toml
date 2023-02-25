@@ -1,0 +1,12 @@
+[tool.poetry]
+name = "dependencies"
+description = "Example Extension with Dependencies"
+version="0.1.0"
+authors=["github_username"]
+packages = [
+    {include = '../'}
+]
+
+# You can include your python-dependencies here
+[tool.poetry.dependencies]
+python-utils = "^3.5.2"
